@@ -62,7 +62,7 @@ const IndexPage = () =>
 
     <Content>
       <Section image={image1} textLeft='Weddings' textRight='Capture your big moment.' />
-      <Section image={image2} textLeft='Every detail forever.' textRight='Engagements' flip />
+      <Section image={image2} textLeft='Every detail forever....' textRight='Engagements' flip />
       <Section image={image3} textLeft='Portraits' textRight='A photographic story.' imageRight />
     </Content>
 
