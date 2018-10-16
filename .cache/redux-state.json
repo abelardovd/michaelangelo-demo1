@@ -684,12 +684,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-10-12T01:12:53.395Z",
+      "buildTime": "2018-10-16T18:47:28.707Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "5a930d33c783b6d6d8d13512367ac32b",
+        "contentDigest": "ca76268c7fc906ba29406cc6bd350a21",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
